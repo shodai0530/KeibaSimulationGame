@@ -1,9 +1,4 @@
 # KeibaSimulationGame
-使用技術：Python, tkinter
-概要：変動するオッズにベットして所持金を増やしていく競馬モチーフのゲーム
-
-(以下、実際に同梱したREADMEファイルの文章です)
-
 ## 競馬Simulation Game 「大破産」
 ### Ver.1.1.0 (build.20230127)
 
